@@ -33,7 +33,7 @@ for [hostname, port] in hosts:
             "macro": "{$TEST1}", # указать макрос
             "value": port # значение макроса
         }]
-    )
+    )2
 
 
 
